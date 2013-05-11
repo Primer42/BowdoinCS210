@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=DrawingBoard(int,\ int)
+comment0.text=Constructor\ -\ create\ the\ window\ and\ show\ it\ \ \ \ \n\n
+comment1.params=s
+comment1.target=void\ changeTitle(String)
+comment1.text=change\ the\ title\ of\ the\ board\ to\ <s>\n\n
+comment2.params=z
+comment2.target=int\ scale(int)
+comment2.text=Scale\ the\ size\ of\ the\ dot\ according\ to\ the\ window\ size\ \ \ \ \n\n
+comment3.target=void\ clear()
+comment3.text=Whiteout\ the\ screen\n\n
+comment4.params=col\ row
+comment4.target=void\ bigDot(int,\ int)
+comment4.text=Main\ drawing\ routine.\ \ Draws\ a\ new\ dot\ at\ row,\ col\ and\nconnects\ it\ to\ the\ previous\ Dot\ (if\ it\ exists).\ \ \ \ \n\n
+numComments=5

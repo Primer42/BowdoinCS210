@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dots()
+comment0.text=the\ constructor\:\ creates\ the\ boards,\ and\ opens\ stdin\ for\ reading\ from\ user\n\n
+comment1.params=pattern
+comment1.target=void\ drawPattern(int)
+comment1.text=Method\ which\ makes\ drawing\ calls.\ \ Your\ code\ goes\ in\ here.\ \ Do\nnot\ add\ any\ variables\!\n\n
+comment2.target=int\ getPattern()
+comment2.text=Metho\ to\ read\ in\ from\ user\ which\ pattern\ to\ do\ next.\ \ If\ the\nuser\ enters\ an\ integer\ between\ 1\ and\ MAXPATTERN\ this\ value\ is\nreturned;\ if\ the\ user\ enters\ q\ it\ returns\ -1;\ if\ the\ user\nenters\ something\ else\ it\ returns\ the\ current\ pattern;\n\n
+comment3.target=void\ UserLoop()
+comment3.text=Main\ loop.\ \ Check\ if\ user\ wants\ pattern,\ then\ execute\ it.\n\n
+comment4.params=args
+comment4.target=void\ main([)
+numComments=5
